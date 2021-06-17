@@ -4,7 +4,8 @@ whoami 🧐 ?
 - 🌱 I’m currently learning Network +, AWS Solution Architect Associate
 - 💞️ I’m looking to collaborate on web development, python coding and other small projects.
 - 📫 How to reach me ...just email me: dongtu@gmail.com
-- 🎓 Per Scholas
+- 🎓 Per Scholas, Fullstack Academy, CUNY TechWorks @ Queensborough Community College
+
 
 ✔️ Things I done:
 - 📜 AWS Certified Cloud Practitioner
